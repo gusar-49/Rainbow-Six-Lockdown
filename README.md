@@ -216,4 +216,4 @@ Rainbow Six: Lockdown is available as a **full free version** with all features 
 Ready to take control of your tactical destiny? Download Rainbow Six: Lockdown today and lead your team to victory!
 
 ---
-**Last updated:** 2026-09-25 23:48:27 UTC
+**Last updated:** 2026-09-26 03:31:46 UTC
